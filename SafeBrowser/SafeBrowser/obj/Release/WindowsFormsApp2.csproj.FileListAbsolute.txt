@@ -1,0 +1,12 @@
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\VirtualDesktop.dll
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\VirtualDesktop.WinForms.dll
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\VirtualDesktop.xml
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\VirtualDesktop.WinForms.xml
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Tech4\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
